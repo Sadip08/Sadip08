@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Sadip08
 - 👀 I’m interested in Music and machine learning
-- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 -     FB : Sadip tmg
-- 😄 Pronouns: He
+- 😄 Pronouns:
 - ⚡ Fun fact: ...
 
 <!---
